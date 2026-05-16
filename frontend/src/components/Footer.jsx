@@ -33,7 +33,7 @@ function Footer() {
             <h4 className='text-white font-bold text-xl mb-5 border-b-2 border-gray-700 inline-block pb-2'>Contact</h4>
             <ul className='text-base space-y-3 mt-4'>
               <li className='flex items-center gap-3'>📧 support@digitalstore.com</li>
-              <li className='flex items-center gap-3'>📞 +7 (777) 123-45-67</li>
+              <li className='flex items-center gap-3'>📞 +7 (707)412 4353 </li>
               <li className='flex items-center gap-3'>📍 Almaty, Kazakhstan</li>
             </ul>
           </div>
