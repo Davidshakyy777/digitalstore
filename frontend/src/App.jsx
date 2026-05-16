@@ -127,7 +127,7 @@ function App() {
                     📋 About this item
                   </h3>
                   <p className='text-gray-700 leading-relaxed text-sm sm:text-base'>
-                    {selectedProduct.description || 'This product is brand new and comes with full warranty. Premium quality guaranteed.'}
+                    {selectedProduct.description || 'This product is brand new and comes with full warranty.'}
                   </p>
                 </div>
                 <button 
